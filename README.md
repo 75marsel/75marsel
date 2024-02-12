@@ -8,5 +8,6 @@ An **aspiring** Python Developer and C Developer. A Computer Engineering student
  ## Skills
 
   - **Programming Languages:** C, Arduino, Python, C++, Java (Basic)
+  - **Other Lanugages:** Basic HTML, CSS, Batch Script
   - **Frameworks:** Flask, PyQt5, MongoDB
   - **Embedded Systems:** Arduino, I2C, Logic Gates, Sensors and Electronic Circuits

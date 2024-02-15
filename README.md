@@ -25,5 +25,28 @@ An **aspiring** Python Developer and C Developer. Loves exploring and learning n
   - **File Sorter**
     A File sorter script written in Python. This will automatically moves files into file category specific named folders depending on the user settings applied. To keep the settings saved,
     it uses SQLiteDict for storing the settings locally and MongoDB Atlas (PyMongo) for saving the settings to cloud for tinkering purposes! 
-  - 
-  - **Embedded Systems:** Arduino, I2C, Logic Gates, Sensors and Electronic Circuits
+    
+  - **Device Tracker with SMS Functionality and Short Range alarm**
+    An Embedded system developed using Arduino, SIM800L, GPS NEO6Mv2, nrf24l01 and buzzer module. This will locate the device and stores in the arduino. The user can then send text messages
+    to allow the tracker to send the coordinates back to the sender. It also has short range tracking using IR remote and RF communication. It will beep at second interval for locating
+    the whereabouts of the device.
+
+   **Sumo Bot and Line Follower Robot:**
+     A Robot that is capable of pushing and moving using sensor detections that pushes the enemy outside the ring (Sumo Bot) and A Robot that is capable of moving on its own along side the
+     line tracks without the assistance of a human on controls.
+
+## What I am currently Interested and Working on?
+
+I am currently relearning Web Design and Development (HTML and CSS), Slowly learning Pandas Framework, Django Framework and OpenCV. I am also currently taking Harvard's CS50P as a refresher course on Python.
+Currently on my recording of Final Project for a Free Certificate (File Sorter).
+
+Currently looking for an OJT/Internship that is related to Programming so that I would be exposed to Industry standards! Preferabbly related to C or Python (much preferred).
+
+I am more inclined towards Software side but can also do Hardware stuffs like Robotics as I love A.I and I'm slowly working my progress on learning the things for it!
+
+## Lets contact each other!
+
+  - **E-Mail** jericgappi@gmail.com
+  - **LinkedIn** https://www.linkedin.com/in/jericmarcel0321/
+
+  I would be glad be friending or collabing! Collaboration is also a way on expanding ones knowledge!

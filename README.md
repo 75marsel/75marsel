@@ -32,7 +32,7 @@ An **aspiring** Python Developer and C Developer. Loves exploring and learning n
     to allow the tracker to send the coordinates back to the sender. It also has short range tracking using IR remote and RF communication. It will beep at second interval for locating
     the whereabouts of the device.
 
-   **Sumo Bot and Line Follower Robot:**
+  - **Sumo Bot and Line Follower Robot:**
      A Robot that is capable of pushing and moving using sensor detections that pushes the enemy outside the ring (Sumo Bot) and A Robot that is capable of moving on its own along side the
      line tracks without the assistance of a human on controls.
 

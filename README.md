@@ -23,11 +23,11 @@ An **aspiring** Python Developer and C Developer. Loves exploring and learning n
      A Hangman game based on the same title Hangman. Where the player will start guessing the word by selecting appropriate letters to complete the puzzle. One mistake equals one step closer
      to loosing the game. This was developed using Python and PyGame framework. It has a database only in text file format (.txt) and will be improved at future.
     
-  - **File Sorter**
+  - **File Sorter:**
     A File sorter script written in Python. This will automatically moves files into file category specific named folders depending on the user settings applied. To keep the settings saved,
     it uses SQLiteDict for storing the settings locally and MongoDB Atlas (PyMongo) for saving the settings to cloud for tinkering purposes! 
     
-  - **Device Tracker with SMS Functionality and Short Range alarm**
+  - **Device Tracker with SMS Functionality and Short Range alarm:**
     An Embedded system developed using Arduino, SIM800L, GPS NEO6Mv2, nrf24l01 and buzzer module. This will locate the device and stores in the arduino. The user can then send text messages
     to allow the tracker to send the coordinates back to the sender. It also has short range tracking using IR remote and RF communication. It will beep at second interval for locating
     the whereabouts of the device.
@@ -47,7 +47,7 @@ I am more inclined towards Software side but can also do Hardware stuffs like Ro
 
 ## Lets contact each other!
 
-  - **E-Mail** jericgappi@gmail.com
-  - **LinkedIn** https://www.linkedin.com/in/jericmarcel0321/
+  - **E-Mail:** jericgappi@gmail.com
+  - **LinkedIn:** https://www.linkedin.com/in/jericmarcel0321/
 
   I would be glad be friending or collabing! Collaboration is also a way on expanding ones knowledge!

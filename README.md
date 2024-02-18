@@ -13,7 +13,7 @@ An **aspiring** Python Developer and C Developer. Loves exploring and learning n
   - **Embedded Systems:** Arduino, I2C, Logic Gates, Sensors and Electronic Circuits
 
 ## Projects
-     I have some projects that are not uploaded and in private. But here are some notable ones. Thesis/Capstone and Commissioned Projects are not included here.
+     I have some projects that are not uploaded and in private. But here are some notable ones. Thesis/Capstone and Commission Projects are not included here.
     
   - **Project SAYAKA:** 
      Project Sayaka is a turn-based game using Python and PyQt5 GUI Framework. It has a database for accounts using SQLiteDict. This games requires walking of character and encountering

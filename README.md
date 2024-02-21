@@ -13,13 +13,22 @@ _currently looking for on-site ojt/internship_
   - **Other Lanugages:** HTML (Basic) , CSS (Basic) , Batch Script
   - **Frameworks:** Flask, PyQt5, MongoDB
   - **Embedded Systems:** Arduino, I2C, Logic Gates, Sensors and Electronic Circuits
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=75marsel&layout=compact" alt="Top Langs">
+  </p>
 
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width="70">
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" width="70">
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c++.svg" width="70">
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" width="70">
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" width="70">
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="70">
+<div align="center">
+
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width="70">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" width="70">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c++.svg" width="70">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="70">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" width="70">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" width="70">
+
+
+</div>
+
 
 ## Projects
      I have some projects that are not uploaded and in private. But here are some notable ones. Thesis/Capstone and Commission Projects are not included here.

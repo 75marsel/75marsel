@@ -67,5 +67,6 @@ I am more inclined towards Software side but can also do Hardware stuffs like Ro
 
   - **E-Mail:** jericgappi@gmail.com
   - **LinkedIn:** https://www.linkedin.com/in/jericmarcel0321/
+  - **Twitter:** https://twitter.com/qz_mayakashi
 
   I would be glad be friending or collabing! Collaboration is also a way on expanding ones knowledge!

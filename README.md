@@ -69,7 +69,7 @@ I would be glad be friending or collabing! Collaboration is also a way on expand
 
 ## SNS Links // Lets contact each other!
 
-[<img align="left" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" mailto:"jericgappi@gmail.com"/>][email]
+[<img align="left" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" />][email]
 [<img align="left" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" />][linkedin]
 [<img align="left" width="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/twitter/twitter-rounded-square.svg" />][twitter]
 

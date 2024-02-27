@@ -7,6 +7,8 @@ _currently looking for on-site ojt/internship_
  </p>
 
 
+
+
  ## Skills / Tools / Techs
 
   - **Programming Languages:** C, Arduino, Python, C++, Java (Basic)
@@ -63,10 +65,15 @@ Currently looking for an OJT/Internship that is related to Programming so that I
 
 I am more inclined towards Software side but can also do Hardware stuffs like Robotics as I love A.I and I'm slowly working my progress on learning the things for it!
 
-## Lets contact each other!
+I would be glad be friending or collabing! Collaboration is also a way on expanding ones knowledge!
 
-  - **E-Mail:** jericgappi@gmail.com
-  - **LinkedIn:** https://www.linkedin.com/in/jericmarcel0321/
-  - **Twitter:** https://twitter.com/qz_mayakashi
+## SNS Links // Lets contact each other!
 
-  I would be glad be friending or collabing! Collaboration is also a way on expanding ones knowledge!
+[<img align="left" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" />][email]
+[<img align="left" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" />][linkedin]
+[<img align="left" width="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/twitter/twitter-rounded-square.svg" />][twitter]
+
+[email]: jericgappi@gmail.com
+[linkedin]: https://www.linkedin.com/in/jericmarcel0321
+[twitter]: https://twitter.com/qz_mayakashi
+

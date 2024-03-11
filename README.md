@@ -28,6 +28,7 @@ _currently looking for on-site ojt/internship_
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" href="https://code.visualstudio.com/" width="70">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" href="https://flask.palletsprojects.com/en/3.0.x/" width="70">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" href="https://www.mongodb.com/" width="70">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" href="/" width="70">
 
 
 </div>

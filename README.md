@@ -14,7 +14,7 @@ _currently looking for on-site ojt/internship_
   - **Programming Languages:** C, Arduino, Python, C++, Java (Basic), Javascript (Basic)
   - **Other Lanugages:** HTML (Basic) , CSS (Basic) , Batch Script
   - **Frameworks:** Flask, PyQt5
-  - **Database:** MongoDB, PostgreSQL
+  - **Database:** SQLiteDict, MongoDB, PostgreSQL
   - **Embedded Systems:** Arduino, NodeMCU, I2C, Logic Gates, Sensors and Electronic Circuits
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=75marsel&layout=compact" alt="Top Langs">

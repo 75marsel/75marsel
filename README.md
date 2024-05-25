@@ -13,7 +13,7 @@ _currently looking for on-site ojt/internship_
 
   - **Programming Languages:** C, Arduino, Python, C++, Java (Basic), Javascript (Basic)
   - **Other Lanugages:** HTML (Basic) , CSS (Basic) , Batch Script
-  - **Frameworks:** Flask, PyQt5
+  - **Frameworks:** Flask, PyQt5, Django
   - **Database:** SQLiteDict, MongoDB, PostgreSQL
   - **Embedded Systems:** Arduino, NodeMCU, I2C, Logic Gates, Sensors and Electronic Circuits
   <p align="center">

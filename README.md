@@ -1,6 +1,6 @@
 # Jeric Marcel L. Gappi - Senior Computer Engineering Student (Robotics Elective, 4th year Graduating on August 2024)
-An **aspiring** Python and C Developer (also cloud and web dev!). Loves exploring and learning new things! 
-_currently looking for Python tech stack related opportunities!_
+An **aspiring** Python and C Developer (also cloud and web dev!). Loves exploring and learning new things! <br>
+_**currently looking for Python tech stack related opportunities!**_
  <!-- <img src="https://github-stats-alpha.vercel.app/api?username=75marsel&cc=22272e&tc=37BCF6&ic=fff&bc=0000"> -->
  <p align=center>
  <img src="https://github-stats-alpha.vercel.app/api?username=75marsel&cc=B0E1C3&tc=000000&ic=000000" href="https://github.com/75marsel">

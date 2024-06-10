@@ -1,6 +1,6 @@
-# Jeric Marcel L. Gappi - Senior Computer Engineering Student (Robotics Elective, 4th year)
+# Jeric Marcel L. Gappi - Senior Computer Engineering Student (Robotics Elective, 4th year Graduating on August 2024)
 An **aspiring** Python and C Developer (also cloud and web dev!). Loves exploring and learning new things! 
-_currently looking for on-site ojt/internship_
+_currently looking for Python tech stack related opportunities!_
  <!-- <img src="https://github-stats-alpha.vercel.app/api?username=75marsel&cc=22272e&tc=37BCF6&ic=fff&bc=0000"> -->
  <p align=center>
  <img src="https://github-stats-alpha.vercel.app/api?username=75marsel&cc=B0E1C3&tc=000000&ic=000000" href="https://github.com/75marsel">
@@ -11,11 +11,11 @@ _currently looking for on-site ojt/internship_
 
  ## Skills / Tools / Techs
 
-  - **Programming Languages:** C, Arduino, Python, C++, Java (Basic), Javascript (Basic)
+  - **Programming Languages:** C, C++, Arduino, Python, Java (Android Studio), Javascript (Basic)
   - **Other Lanugages:** HTML (Basic) , CSS (Basic) , Batch Script
-  - **Frameworks:** Flask, PyQt5, Django
-  - **Database:** SQLiteDict, MongoDB, PostgreSQL
-  - **Embedded Systems:** Arduino, NodeMCU, I2C, Logic Gates, Sensors and Electronic Circuits
+  - **Frameworks:** Flask, PyQt5, Django, Pandas
+  - **Database:** SQLiteDict, MongoDB, PostgreSQL (basic)
+  - **Embedded Systems:** Robotics, Arduino, ESP32, NodeMCU, I2C, Logic Gates, Sensors and Electronic Circuits
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=75marsel&layout=compact" alt="Top Langs">
   </p>

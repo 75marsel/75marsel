@@ -33,7 +33,6 @@ _**currently looking for Python tech stack related opportunities!**_
 
 </div>
 
-
 ## Projects
      I have some projects that are not uploaded and in private. But here are some notable ones. Thesis/Capstone and Commission Projects are not included here.
     
@@ -44,9 +43,17 @@ _**currently looking for Python tech stack related opportunities!**_
   - <a href="https://github.com/75marsel/hangmangame">**The Hangman Game:**</a>
      A Hangman game based on the same title Hangman. Where the player will start guessing the word by selecting appropriate letters to complete the puzzle. One mistake equals one step closer
      to loosing the game. This was developed using Python and PyGame framework. It has a database only in text file format (.txt) and will be improved at future.
+
+  - <a href="https://github.com/75marsel/ArduinoOpenCV_LED">**Sample Face Detection with OpenCV and Arduino (PyFrimata):**</a>
+     My freshmen face detection project using OpenCV and Python combined with Arduino's Firmata and Python's PyFirmata. Tested to turn on an LED if face is detecteed. This was also tested on
+     solenoid door lock.
+
+  - **RMA Serial Search using Python, PyQt5 and Pandas**</a>
+     Made to streamline the process of data searching, warranty computation and queries of millions of RMA related data. A gift for my Internship to make the process of RMA on technical department
+     fast. Developed using Python, PyQt5 GUI Framework and Pandas and with CSV Library for data handling and manipulation (for warranty computation),
     
   - **File Sorter:**
-    A File sorter script written in Python. This will automatically moves files into file category specific named folders depending on the user settings applied. To keep the settings saved,
+    Harvard's CSO50P Final Project Requirement. A File sorter script written in Python. This will automatically moves files into file category specific named folders depending on the user settings applied. To keep the settings saved,
     it uses SQLiteDict for storing the settings locally and MongoDB Atlas (PyMongo) for saving the settings to cloud for tinkering purposes! 
     
   -  <a href="https://github.com/75marsel/ArduinoLocationTracker">**Device Tracker with SMS Functionality and Short Range alarm:**</a>

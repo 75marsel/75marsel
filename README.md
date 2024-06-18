@@ -81,7 +81,8 @@ I would be glad be friending or collabing! Collaboration is also a way on expand
 [<img align="left" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" />](mailto:jericgappi@gmail.com)
 [<img align="left" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" />][linkedin]
 [<img align="left" width="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/twitter/twitter-rounded-square.svg" />][twitter]
+[<img align="left" width="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/twitter/twitter-rounded-square.svg" />][twitter2]
 
 [linkedin]: https://www.linkedin.com/in/jericmarcel0321
-[twitter]: https://twitter.com/qz_mayakashi
-
+[twitter]: https://twitter.com/nakonama_
+[twitter2]: https://twitter.com/qz_mayakashi

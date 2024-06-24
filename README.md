@@ -13,7 +13,7 @@ _**currently looking for Python tech stack related opportunities!**_
 
   - **Programming Languages:** C, C++, Arduino, Python, Java (Android Studio), Javascript (Basic)
   - **Other Lanugages:** HTML (Basic) , CSS (Basic) , Batch Script
-  - **Frameworks:** Flask, PyQt5, Django, Pandas, OpenCV (basic)
+  - **Frameworks/Libraries:** Flask, PyQt5, Django, Pandas, OpenCV (basic)
   - **Database:** SQLiteDict, MongoDB, PostgreSQL (basic)
   - **Embedded Systems:** Robotics, Arduino, ESP32, NodeMCU, I2C, Logic Gates, Sensors and Electronic Circuits
   <p align="center">

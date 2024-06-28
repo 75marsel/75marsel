@@ -67,10 +67,11 @@ _**currently looking for Python tech stack related opportunities!**_
 
 ## What I am currently Interested and Working on?
 
-I am currently relearning Web Design and Development (HTML and CSS), Slowly learning Pandas Framework, Django Framework and OpenCV. I am also currently taking Harvard's CS50P as a refresher course on Python.
-Currently on my recording of Final Project for a Free Certificate (File Sorter).
+I am currently relearning Django Web Framework, Data analysis, Java Spring Boot. 
 
-Currently looking for an OJT/Internship that is related to Programming so that I would be exposed to Industry standards! Preferabbly related to C or Python (much preferred).
+I also accept commissions on Computer Engineering related projects i.e. Robotics, Python, Java App, Thesis prototype etc.. 
+
+Currently looking for an Entry Level job fo4 fresh graduates that is related to Python or C so that I would be exposed to Industry standards! Preferabbly related to C or Python (much preferred hehe).
 
 I am more inclined towards Software side but can also do Hardware stuffs like Robotics as I love A.I and I'm slowly working my progress on learning the things for it!
 

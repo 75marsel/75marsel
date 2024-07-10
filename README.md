@@ -72,7 +72,7 @@ I am currently relearning Django Web Framework, Data analysis, Java Spring Boot.
 
 I also accept commissions on Computer Engineering related projects i.e. Robotics, Python, Java App, Thesis prototype etc.. 
 
-Currently looking for an Entry Level job fo4 fresh graduates that is related to Python or C so that I would be exposed to Industry standards! Preferabbly related to C or Python (much preferred hehe).
+Currently looking for an Entry Level job for fresh graduates that is related to Python or C so that I would be exposed to Industry standards! Preferabbly related to C or Python (much preferred hehe).
 
 I am more inclined towards Software side but can also do Hardware stuffs like Robotics as I love A.I and I'm slowly working my progress on learning the things for it!
 

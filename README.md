@@ -1,7 +1,7 @@
 # Jeric Marcel L. Gappi - Computer Engineer - Robotics Elective
 An **aspiring** Python and C Developer (also cloud and web dev!). Loves exploring and learning new things! <br>
-_**currently looking for Python tech stack related opportunities!**_ 
-_**Graduating on August 2, 2024**__
+_**currently looking for Python tech stack or Embdedded Systems related opportunities!**_ 
+
  <!-- <img src="https://github-stats-alpha.vercel.app/api?username=75marsel&cc=22272e&tc=37BCF6&ic=fff&bc=0000"> -->
  <p align=center>
  <img src="https://github-stats-alpha.vercel.app/api?username=75marsel&cc=B0E1C3&tc=000000&ic=000000" href="https://github.com/75marsel">
@@ -14,7 +14,7 @@ _**Graduating on August 2, 2024**__
 
   - **Programming Languages:** C, C++, Arduino, Python, Java (Android Studio), Javascript (Basic)
   - **Other Lanugages:** HTML (Basic) , CSS (Basic) , Batch Script
-  - **Frameworks/Libraries:** Flask, PyQt5, Django, Pandas, OpenCV (basic)
+  - **Frameworks/Libraries:** Flask, PyQt5, Django (Basic), Pandas, OpenCV (basic), ReactJS (Basic)
   - **Database:** SQLiteDict, MongoDB, PostgreSQL (basic)
   - **Embedded Systems:** Robotics, Arduino, ESP32, NodeMCU, I2C, Logic Gates, Sensors and Electronic Circuits
   <p align="center">

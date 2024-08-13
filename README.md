@@ -15,7 +15,7 @@ _**Batch 2023-2024 Graduate (August 2, 2024)**_
 
   - **Programming Languages:** C, C++, Arduino, Python, Java (Android Studio), Javascript (Basic)
   - **Other Lanugages:** HTML (Basic) , CSS (Basic) , Batch Script
-  - **Frameworks/Libraries:** Flask, PyQt5, Django (basic), Pandas, OpenCV (basic), ReactJS (basic)
+  - **Frameworks/Libraries:** Flask, PyQt5, Django, DJango REST, Pandas, OpenCV (basic), ReactJS (basic)
   - **Database:** SQLiteDict, MongoDB, PostgreSQL (basic)
   - **Embedded Systems:** Robotics, Arduino, ESP32, NodeMCU, I2C, Logic Gates, Sensors and Electronic Circuits
   <p align="center">

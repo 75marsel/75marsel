@@ -1,5 +1,5 @@
 # Jeric Marcel L. Gappi - Computer Engineer - Robotics Elective
-An **aspiring** Python and C Developer (also cloud and web dev!). Loves exploring and learning new things! <br>
+An **aspiring** Python and C Software Engineer (also cloud and web dev!). Loves exploring and learning new things! <br>
 _**currently looking for Python Tech Stack or Embedded Systems related opportunities!**_  <br>
 _**Batch 2023-2024 Graduate (August 2, 2024)**_
 

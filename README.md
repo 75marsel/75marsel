@@ -50,7 +50,7 @@ _**Batch 2023-2024 Graduate (August 2, 2024)**_
      My freshmen face detection project using OpenCV and Python combined with Arduino's Firmata and Python's PyFirmata. Tested to turn on an LED if face is detecteed. This was also tested on
      solenoid door lock.
 
-  - **Inventory Mangement System with User Authentication using DJango Full Stack**</a>
+  - <a href="https://github.com/75marsel/InventoryManagementSystem">**Inventory Mangement System with User Authentication using DJango Full Stack:**</a>
      A practice app for implementing most features for Django including the most basic to the crucial functionalities needed for a working web app. The finished product is expected to be an
     RMA-focused Inventory Management Web application. Currently has CRUD, User Auth and will received iterative updates.
 

@@ -14,9 +14,10 @@ _**Batch 2023-2024 Graduate (August 2, 2024)**_
  ## Skills / Tools / Techs
 
   - **Programming Languages:** C, C++, Arduino, Python, Java (Android Studio), Javascript (Basic)
+  - **Cloud Technology:** Amazon Web Service (AWS), Lambda, Personalize, Bedrock, Sagemaker.
   - **Other Lanugages:** HTML (Basic) , CSS (Basic) , Batch Script
   - **Frameworks/Libraries:** Flask, PyQt5, Django, DJango REST, Pandas, OpenCV (basic), ReactJS (basic)
-  - **Database:** SQLiteDict, MongoDB, PostgreSQL (basic)
+  - **Database:** SQLiteDict, MongoDB, PostgreSQL, DynamoDb
   - **Embedded Systems:** Robotics, Arduino, ESP32, NodeMCU, I2C, Logic Gates, Sensors and Electronic Circuits
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=75marsel&layout=compact" alt="Top Langs">

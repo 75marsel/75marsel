@@ -1,4 +1,4 @@
-# Jeric Marcel L. Gappi - Computer Engineer - Robotics Elective
+# Jeric Marcel L. Gappi - Computer Engineer - Robotics | AWS Certified
 An **aspiring** Python and C Software Engineer (also cloud dev!). Loves exploring and learning new things! <br>
 _**currently an AI Cloud Developer Trainee at iCXeed**_  <br>
 _**Batch 2023-2024 Graduate (August 2, 2024)**_

@@ -1,7 +1,6 @@
-# Jeric Marcel L. Gappi - Computer Engineer - Robotics | AWS Certified
-An **aspiring** Python and C Software Engineer (also cloud dev!). Loves exploring and learning new things! <br>
-_**currently a Junior AI Cloud Developer at iCXeed**_  <br>
-_**Batch 2023-2024 Graduate (August 2, 2024)**_
+# Jeric Marcel L. Gappi: Computer Engineer - Robotics | 2x AWS Certified
+Software Engineer and Cloud Dev. Loves exploring and learning new things! <br>
+
 
  <!-- <img src="https://github-stats-alpha.vercel.app/api?username=75marsel&cc=22272e&tc=37BCF6&ic=fff&bc=0000"> -->
  <p align=center>
@@ -13,10 +12,9 @@ _**Batch 2023-2024 Graduate (August 2, 2024)**_
 
  ## Skills / Tools / Techs
 
-  - **Programming Languages:** C, C++, Arduino, Python, Java (Android Studio), Javascript (Basic)
-  - **Cloud Technology:** Amazon Web Service (AWS), Lambda, Personalize, Bedrock, Sagemaker.
-  - **Other Lanugages:** HTML (Basic) , CSS (Basic) , Batch Script
-  - **Frameworks/Libraries:** Flask, PyQt5, Django, DJango REST, Pandas, OpenCV (basic), ReactJS (basic)
+  - **Programming Languages:** C, C++, Arduino, Python, Java (Android Studio), Javascript
+  - **Cloud Technology:** Amazon Web Services (AWS), Azure
+  - **Frameworks/Libraries:** Flask, PyQt5, Django, DJango REST, Pandas, OpenCV, ReactJS
   - **Database:** SQLiteDict, MongoDB, PostgreSQL, DynamoDb
   - **Embedded Systems:** Robotics, Arduino, ESP32, NodeMCU, I2C, Logic Gates, Sensors and Electronic Circuits
   <p align="center">
